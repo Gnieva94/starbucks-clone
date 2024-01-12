@@ -1,8 +1,6 @@
 import '../assets/css/Cafe/CafeSection.css'
 
 export const CafeSection = ({subtitle,parag,img,btn}) => {
-  console.log(btn)
-  //console.log(parag)
   return (
     <article className='cafe-article'>
       {subtitle && <h2>{subtitle}</h2>}

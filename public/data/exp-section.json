@@ -1,0 +1,38 @@
+[
+  {
+    "img":{
+      "src": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-01%2F137-67487_1.png?auto=format,compress&q=70&crop=focalpoint&ar=1.8:1.0&w=1400&fit=max 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-01%2F137-67487_1.png?auto=format,compress&q=70&crop=focalpoint&ar=1.8:1.0&w=1400&fit=max&dpr=2 2x",
+      "alt": "In store"
+    },
+    "title": "In Store",
+    "description": "En nuestras tiendas te esperan nuestros baristas capacitados para ofrecerte una bebida muy especial. El ambiente cálido y los detalles de nuestros productos elaborados artesanalmente hacen que la experiencia sea única e inigualable.",
+    "btn":{
+      "href": null,
+      "text": null
+    }
+  },
+  {
+    "img":{
+      "src": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-01%2F137-67488_1.png?auto=format,compress&q=70&crop=focalpoint&ar=1.8:1.0&w=1400&fit=max 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-01%2F137-67488_1.png?auto=format,compress&q=70&crop=focalpoint&ar=1.8:1.0&w=1400&fit=max&dpr=2 2x",
+      "alt": "Drive"
+    },
+    "title": "Drive Thru",
+    "description": "Retirá tu bebida favorita y viví la Experiencia Starbucks sin bajarte del auto.",
+    "btn":{
+      "href": null,
+      "text": null
+    }
+  },
+  {
+    "img":{
+      "src": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-01%2F137-67485_1.png?auto=format,compress&q=70&crop=focalpoint&ar=1.8:1.0&w=1400&fit=max 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-01%2F137-67485_1.png?auto=format,compress&q=70&crop=focalpoint&ar=1.8:1.0&w=1400&fit=max&dpr=2 2x",
+      "alt": "Delivery"
+    },
+    "title": "Delivery",
+    "description": "Los clientes  pueden pedir sus bebidas y productos favoritos donde sea que estén con operadores logísticos al servicio como Pedidos Ya.",
+    "btn":{
+      "href": "https://www.pedidosya.com.ar/cadenas/starbucks",
+      "text": "Pedí Delivery"
+    }
+  }
+]
