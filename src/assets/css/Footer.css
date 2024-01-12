@@ -22,7 +22,6 @@ a{
 }
 .footer-socialMediaList{
   display: flex;
-  justify-content: space-around;
 }
 .footer-miscList a{
   color:#999;
@@ -36,6 +35,7 @@ a{
   display: inline-block;
   width: 34px;
   height: 34px;
+  margin-right: 3rem;
 }
 .facebook-icon{
   background-position-y: 0;
