@@ -1,0 +1,33 @@
+.cafe-article{
+  & h2,p,img,a{
+    margin-bottom: 2rem;
+  }
+}
+.cafe-article h2{
+  font-weight: 700;
+  font-size: 1.9rem;
+}
+.cafe-article p{
+  color: rgba(71, 70, 70, 0.719);
+  font-size: 1.5rem;
+  line-height: 2.6rem;
+  letter-spacing: -0.11px;
+}
+.cafe-article img{
+  width: 100%;
+}
+.cafe-article a{
+  color: black;
+  font-size: 1.4rem;
+  font-weight: 700;
+  text-decoration: none;
+  padding: .4rem 1.5rem;
+  border: 1px solid black;
+  border-radius: 5rem;
+}
+
+@media (max-width: 1200px){
+  .cafe-article p {
+    font-size: calc(1.4rem + .3vw);
+  }
+}
