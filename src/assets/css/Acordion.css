@@ -1,0 +1,22 @@
+.acordion-title{
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #000;
+    cursor: pointer;
+    position: relative;
+    margin-bottom: 2.4rem;
+}
+.acordion-title::after{
+  content: "";
+  background-image: url("../imgs/arrow-down.svg");
+  background-color: transparent;
+  background-repeat: no-repeat;
+  display: inline-block;
+  width: 16px;
+  height: 9px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  margin: auto 0;
+}

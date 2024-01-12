@@ -1,0 +1,9 @@
+.acordionList-ul{
+  list-style: none;
+}
+.acordionList-li{
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin-bottom: 2.4rem;
+  color: #777;
+}
