@@ -1,5 +1,6 @@
 import '../assets/css/App.css'
 import { Header } from './Header.jsx'
+import { Hero } from '../components/Hero.jsx'
 import { Footer } from './Footer.jsx'
 
 export const App = () => {
@@ -7,7 +8,7 @@ export const App = () => {
   return (
     <>
       <Header />
-      <main>SOY EL MAIN</main>
+      <Hero />
       <Footer />
     </>
   )

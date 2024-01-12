@@ -1,7 +1,7 @@
-@import url(./Normalize.css);
+@import url("../css/Normalize.css");
 
 .header {
-  background-color: var(--main_Color);
+  background-color: var(--main_color);
   padding: 15px 20px;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 3px 3px 0px;
   height: 70px;
