@@ -4,19 +4,79 @@ import footerImg from '../assets/imgs/footer-argentina.jpg'
 const data = [
   {
     title: 'Sobre nosotros',
-    list: ['Nuestra historia', 'Nuestra misión', 'Nuestra cultura inclusiva y valores', 'Nuestro café', 'Historias y novedades', 'Trabajá con nosotros', 'Comunicados oficiales']
+    list: [
+      {
+        name:'Nuestra historia',
+        link:'https://www.starbucks.com.ar/seccion/nuestra-historia'
+      }, 
+      {
+        name:'Nuestra misión',
+        link:'https://www.starbucks.com.ar/articulo/nuestra-mision'
+      }, 
+      {
+        name:'Nuestra cultura inclusiva y valores',
+        link:'https://www.starbucks.com.ar/articulo/nuestra-cultura-inclusiva-y-valores'
+      }, 
+      {
+        name:'Nuestro café',
+        link:'https://www.starbucks.com.ar/articulo/lets-talk-coffee'
+      },
+      {
+        name:'Historias y novedades',
+        link:'https://historias.starbucks.com/es/'
+      }, 
+      {
+        name:'Trabajá con nosotros',
+        link:'https://app.genoma.work/jobs/sbx-ar'
+      }, 
+      {
+        name:'Comunicados oficiales',
+        link:'https://www.starbucks.com.ar/seccion/comunicados-oficiales'
+      }
+    ]
   },
   {
     title: 'Impacto social',
-    list:['Planeta', 'Personas']
+    list:[
+      {
+        name:'Planeta',
+        link:'https://www.starbucks.com.ar/seccion/planeta'
+      }, 
+      {
+        name:'Personas',
+        link:'https://www.starbucks.com.ar/articulo/personas'
+      }
+    ]
   },
   {
     title: 'Atención al cliente',
-    list:['Contacto', 'Medios de pago', 'Defensa de las y los consumidores']
+    list:[
+      {
+        name:'Contacto',
+        link:'https://www.starbucks.com.ar/articulo/contacto'
+      }, 
+      {
+        name:'Medios de pago',
+        link:'https://www.starbucks.com.ar/articulo/medios-de-pago'
+      }, 
+      {
+        name:'Defensa de las y los consumidores',
+        link:'https://www.argentina.gob.ar/produccion/defensadelconsumidor/formulario'
+      }
+    ]
   },
   {
     title: 'Experiencia Starbucks',
-    list:['Formas de comprar', 'Devilery']
+    list:[
+      {
+        name:'Formas de comprar',
+        link:'https://www.starbucks.com.ar/seccion/experiencia-starbucks'
+      }, 
+      {
+        name:'Devilery',
+        link:'https://www.pedidosya.com.ar/cadenas/starbucks'
+      }
+    ]
   }
 ]
 export const Footer = () => {
@@ -28,21 +88,21 @@ export const Footer = () => {
             <Acordion key = {index} title = {item.title} list = {item.list}/>
           ))}
         </div>
-        <a href="#" target='_blank'>
+        <a href="http://qr.afip.gob.ar/?qr=mXre0uzPRZp2FyKAW3LfRQ,," target='_blank'>
           <img className='footer-qrimg' src={footerImg} alt="Imagen qr data fiscal" />
         </a>
       </div>
       <div className='region-sur'>
         <ul className='footer-socialMediaList'>
-          <li>Facebook</li>
-          <li>Instagram</li>
-          <li>LinkedIn</li>
+          <li><a className='social-network facebook-icon' href="https://www.facebook.com/StarbucksArgentina" target='_blank'>Facebook</a></li>
+          <li><a className='social-network instagram-icon' href="https://www.instagram.com/starbucksargentina" target='_blank'>Instagram</a></li>
+          <li><a className='social-network linkedin-icon' href="https://www.linkedin.com/company/starbucks-coffee-argentina/" target='_blank'>LinkedIn</a></li>
         </ul>
         <ul className='footer-miscList'>
-          <li>Accesibilidad web</li>
-          <li>Aviso de privacidad</li>
-          <li>Condiciones de uso</li>
-          <li>Mapa del sitio</li>
+          <li><a href="https://www.starbucks.com.ar/articulo/accesibilidad-web" target='_blank'>Accesibilidad web</a></li>
+          <li><a href="https://www.starbucks.com.ar/articulo/declaracion-privacidad" target='_blank'>Aviso de privacidad</a></li>
+          <li><a href="https://www.starbucks.com.ar/articulo/condiciones-de-uso" target='_blank'>Condiciones de uso</a></li>
+          <li><a href="https://www.starbucks.com.ar/articulo/mapa-del-sitio" target='_blank'>Mapa del sitio</a></li>
         </ul>
         <p className='footer-copy'>Ⓒ 2024. Starbucks Cofee Company. Reversados todos los derechos.</p>
         <p className='footer-creado'>Clon realizado por @gnievassj</p>

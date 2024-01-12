@@ -4,6 +4,9 @@ footer{
   padding: 20px 20px;
   box-shadow: rgba(95, 95, 95, 0.151) 3px 0px 3px 3px;
 }
+a{
+  text-decoration: none;
+}
 .region-norte{
   margin: 1rem 0;
   border-bottom: 1px solid #eee;
@@ -20,6 +23,28 @@ footer{
 .footer-socialMediaList{
   display: flex;
   justify-content: space-around;
+}
+.footer-miscList a{
+  color:#999;
+}
+.social-network{
+  background-image: url("../imgs/social_networks.svg");
+  background-color: transparent;
+  background-repeat: no-repeat;
+  text-indent: -9999px;
+  background-size: 34px;
+  display: inline-block;
+  width: 34px;
+  height: 34px;
+}
+.facebook-icon{
+  background-position-y: 0;
+}
+.instagram-icon{
+  background-position-y: -74px;
+}
+.linkedin-icon{
+  background-position-y: -217px;
 }
 .footer-miscList li{
   margin: 1.5rem 0;
