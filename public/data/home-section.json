@@ -2,7 +2,8 @@
   {
     "title": "¡UN MOMENTO PARA BRILLAR!",
     "paragraph": "Este verano la explosión de sabor vuelve con el Volcán de Chocolate en su versión Frappuccino y Latte",
-    "btnTitle": "",
+    "btnTitle": null,
+    "btnHref":null,
     "img": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2024-01%2FBANNER-VOLCA%CC%81N-DE-CHOC.jpg?auto=format,compress&q=70&crop=focalpoint&ar=1.8:1.0&w=1400&fit=max 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2024-01%2FBANNER-VOLCA%CC%81N-DE-CHOC.jpg?auto=format,compress&q=70&crop=focalpoint&ar=1.8:1.0&w=1400&fit=max&dpr=2 2x",
     "imgAlt": "Volcán de chocolate Frappuccino y Latte"
   },
@@ -10,6 +11,7 @@
     "title": "Unite a algo más grande",
     "paragraph": "Revisa las oportunidades que tenemos para vos",
     "btnTitle": "Postular acá",
+    "btnHref":"https://app.genoma.work/jobs/sbx-ar",
     "img": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-02%2F5%20Banner%20Reclutamiento%20704x600%20copy_1.png?auto=format,compress&q=70&crop=focalpoint&ar=1.8:1.0&w=1400&fit=max 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-02%2F5%20Banner%20Reclutamiento%20704x600%20copy_1.png?auto=format,compress&q=70&crop=focalpoint&ar=1.8:1.0&w=1400&fit=max&dpr=2 2x",
     "imgAlt": "Pechera verde y vaso Starbucks"
   }

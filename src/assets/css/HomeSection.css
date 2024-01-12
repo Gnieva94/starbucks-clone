@@ -16,7 +16,7 @@
   & h1,p{
     color: rgb(0, 117, 74);
   }
-  & button{
+  & .container-text-btn{
     color: rgb(0, 117, 74);
     border: 1px solid rgb(0, 117, 74);
   }
@@ -45,6 +45,7 @@
   cursor: pointer;
   border-radius: 2rem;
   width: 115px;
-  padding: 5px 10px;
+  padding: 4px 10px;
   font-weight: 600;
+  font-size: 1.4rem;
 }

@@ -24,6 +24,7 @@ export const Home = () => {
           title={item.title}
           paragraph={item.paragraph}
           btnTitle={item.btnTitle}
+          btnHref={item.btnHref}
           img={item.img}
           imgAlt={item.imgAlt}
         />
