@@ -1,90 +1,27 @@
 import '../assets/css/Footer.css'
+import { useState, useEffect } from 'react'
 import { Acordion } from './Acordion'
 import footerImg from '../assets/imgs/footer-argentina.jpg'
-const data = [
-  {
-    title: 'Sobre nosotros',
-    list: [
-      {
-        name:'Nuestra historia',
-        link:'https://www.starbucks.com.ar/seccion/nuestra-historia'
-      }, 
-      {
-        name:'Nuestra misión',
-        link:'https://www.starbucks.com.ar/articulo/nuestra-mision'
-      }, 
-      {
-        name:'Nuestra cultura inclusiva y valores',
-        link:'https://www.starbucks.com.ar/articulo/nuestra-cultura-inclusiva-y-valores'
-      }, 
-      {
-        name:'Nuestro café',
-        link:'https://www.starbucks.com.ar/articulo/lets-talk-coffee'
-      },
-      {
-        name:'Historias y novedades',
-        link:'https://historias.starbucks.com/es/'
-      }, 
-      {
-        name:'Trabajá con nosotros',
-        link:'https://app.genoma.work/jobs/sbx-ar'
-      }, 
-      {
-        name:'Comunicados oficiales',
-        link:'https://www.starbucks.com.ar/seccion/comunicados-oficiales'
-      }
-    ]
-  },
-  {
-    title: 'Impacto social',
-    list:[
-      {
-        name:'Planeta',
-        link:'https://www.starbucks.com.ar/seccion/planeta'
-      }, 
-      {
-        name:'Personas',
-        link:'https://www.starbucks.com.ar/articulo/personas'
-      }
-    ]
-  },
-  {
-    title: 'Atención al cliente',
-    list:[
-      {
-        name:'Contacto',
-        link:'https://www.starbucks.com.ar/articulo/contacto'
-      }, 
-      {
-        name:'Medios de pago',
-        link:'https://www.starbucks.com.ar/articulo/medios-de-pago'
-      }, 
-      {
-        name:'Defensa de las y los consumidores',
-        link:'https://www.argentina.gob.ar/produccion/defensadelconsumidor/formulario'
-      }
-    ]
-  },
-  {
-    title: 'Experiencia Starbucks',
-    list:[
-      {
-        name:'Formas de comprar',
-        link:'https://www.starbucks.com.ar/seccion/experiencia-starbucks'
-      }, 
-      {
-        name:'Devilery',
-        link:'https://www.pedidosya.com.ar/cadenas/starbucks'
-      }
-    ]
-  }
-]
+
 export const Footer = () => {
+  const [footer, setFooter] = useState([])
+  const getFooter = async () => {
+    try {
+      const res = await fetch('./data/footer.json')
+      const data = await res.json()
+      setFooter(data)
+    } catch (error) {
+      console.log(error)
+    }
+  }
+  useEffect(() => {
+    getFooter()
+  }, [])
   return (
     <footer>
       <div className='region-norte'>
         <div className='lista-acordion'>
-          {data.map((item, index)=>(
+          {footer.map((item, index)=>(
             <Acordion key = {index} title = {item.title} list = {item.list}/>
           ))}
         </div>

@@ -11,7 +11,7 @@ export const MenuPopUp = ({ closeMenu }) => {
   return (
     <div className="popup">
       <div className='header'>
-        <Link className='header_logo' to={'/'}>
+        <Link className='header_logo' to={'/'} onClick={handleBtnMenu}>
           <img src={logo} alt="Logo de StarBucks" />
         </Link >
         <NavPopUp closeMenu = {closeMenu} />
