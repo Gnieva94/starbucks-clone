@@ -5,13 +5,13 @@
   flex-direction: column;
   margin-bottom: 2rem;
 }
-.hero_main:nth-child(2){
+.hero_main:nth-child(1){
   background-color: rgb(249, 135, 176);
   & h1,p{
     color: var(--main_color)
   }
 }
-.hero_main:nth-child(3){
+.hero_main:nth-child(2){
   background-color: rgba(0, 117, 74, 0.247);
   & h1,p{
     color: rgb(0, 117, 74);

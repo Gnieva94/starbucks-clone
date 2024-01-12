@@ -2,6 +2,7 @@ import '../assets/css/Header.css'
 import { NavPopUp } from '../components/NavPopUp'
 import logo from '../assets/imgs/logo.svg'
 import close from '../assets/imgs/close.svg'
+import { Link } from 'react-router-dom'
 
 export const MenuPopUp = ({ closeMenu }) => {
   const handleBtnMenu = () => {
@@ -10,10 +11,10 @@ export const MenuPopUp = ({ closeMenu }) => {
   return (
     <div className="popup">
       <div className='header'>
-        <a className='header_logo' href="/">
+        <Link className='header_logo' to={'/'}>
           <img src={logo} alt="Logo de StarBucks" />
-        </a>
-        <NavPopUp />
+        </Link >
+        <NavPopUp closeMenu = {closeMenu} />
         <button className='header_btn' title='open Menu' type='button' onClick={handleBtnMenu}>
           <img src={close} alt="Imagen menú" />
         </button>

@@ -19,6 +19,9 @@
       font-weight: 600;
       margin-bottom: 3rem;
     }
+    & .nav_popup-li a{
+      color: #000;
+    }
   }
 
   & .nav_popup-locator{
