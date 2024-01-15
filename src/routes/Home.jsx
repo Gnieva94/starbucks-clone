@@ -1,11 +1,12 @@
 import { useState , useEffect } from 'react'
 import { HomeSection } from '../components/HomeSection.jsx'
+import { useParams } from 'react-router-dom'
 
 export const Home = () => {
   const [section , setSection] = useState([]);
   const getSection = async () => {
     try{
-      const res = await fetch('./data/home-section.json');
+      const res = await fetch('/data/home-section.json');
       const data = await res.json();
       setSection(data);
     }

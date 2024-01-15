@@ -1,15 +1,16 @@
 import { useState, useEffect } from "react"
 import { CafeSection } from "../components/CafeSection"
 import '../assets/css/Cafe/Cafe.css'
+import { useParams } from "react-router-dom"
 
 export const Cafe = () => {
   const [section , setSection] = useState([]);
   const getSection = async () => {
     try{
-      const res = await fetch('./data/cafe-section.json');
+      const res = await fetch('/data/cafe-section.json');
       const data = await res.json();
       setSection(data);
-      console.log(data);
+      //console.log(data);
     }
     catch(error){
       console.log(error);

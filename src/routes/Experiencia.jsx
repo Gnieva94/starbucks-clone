@@ -6,7 +6,7 @@ export const Experiencia = () => {
   const [section , setSection] = useState([]);
   const getSection = async () => {
     try{
-      const res = await fetch('./data/exp-section.json');
+      const res = await fetch('/data/exp-section.json');
       const data = await res.json();
       setSection(data);
     }

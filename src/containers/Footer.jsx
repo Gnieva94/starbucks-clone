@@ -7,7 +7,7 @@ export const Footer = () => {
   const [footer, setFooter] = useState([])
   const getFooter = async () => {
     try {
-      const res = await fetch('./data/footer.json')
+      const res = await fetch('/data/footer.json')
       const data = await res.json()
       setFooter(data)
     } catch (error) {

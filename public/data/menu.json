@@ -1,0 +1,1045 @@
+[
+  {
+    "title":"Bebidas",
+    "paramMenu":"bebidas",
+    "category":[
+      {
+        "title":"Cafés calientes",
+        "param":"cafes-calientes",
+        "img":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FFlat%20White%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FFlat%20White%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+        "subcategory":[
+          {
+            "title": "Lattes",
+            "products": [
+              {
+                "name": "Skinny Vainilla Latte",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FSkinny%20Vainilla%20Latte%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FSkinny%20Vainilla%20Latte%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Skinny Vainilla Latte",
+                "description":"Café espresso con leche descremada al vapor y toques de vainilla sin azúcar."
+              },
+              {
+                "name": "Vainilla Latte",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FVainilla%20latte%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FVainilla%20latte%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Vainilla Latte",
+                "description":"Café espresso con leche al vapor y toques de vainilla."
+              },
+              {
+                "name": "Latte",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-02%2FLatte%20425x425%20verde_1.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-02%2FLatte%20425x425%20verde_1.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Latte",
+                "description":"Café espresso con leche vaporizada."
+              },
+              {
+                "name": "Dulce de leche Latte",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-02%2FDulce%20de%20leche%20latte%20425x425%20verde_1.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-02%2FDulce%20de%20leche%20latte%20425x425%20verde_1.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Dulce de leche Latte",
+                "description":"Café espresso con dulce de leche, leche al vapor con crema batida y salsa de caramelo."
+              }
+            ]
+          },
+          {
+            "title":"Cappuccinos",
+            "products":[
+              {
+                "name":"Cappuccino",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCappuccino%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCappuccino%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Cappuccino",
+                "description":"Café espresso, leche vaporizada y abundante espuma de leche."
+              }
+            ]
+          },
+          {
+            "title":"Flat White",
+            "products":[
+              {
+                "name":"Flat White",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FFlat%20White%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FFlat%20White%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Flat White",
+                "description":"Shots de café ristretto con leche vaporizada que finaliza con un punto dibujado en la superficie."
+              }
+            ]
+          },
+          {
+            "title":"Americanos",
+            "products":[
+              {
+                "name":"Americano",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FAmericano%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FAmericano%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Americano",
+                "description":"Café espresso combinado con agua al mejor estilo americano."
+              }
+            ]
+          },
+          {
+            "title":"Macchiatos",
+            "products":[
+              {
+                "name":"Latte Macchiato",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FLatte%20Macchiato%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FLatte%20Macchiato%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Latte Macchiato",
+                "description":"Leche vaporizada con shots de café espresso que finaliza con un punto dibujado en la superficie."
+              },
+              {
+                "name":"Skinny Caramel Macchiato",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCaramel%20Macchiato%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCaramel%20Macchiato%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Skinny Caramel Macchiato",
+                "description":"Vainilla sin azucar y leche \"manchada\" con espresso, finalizada con el característico dibujo de caramelo"
+              },
+              {
+                "name":"Caramel Macchiato",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-02%2FCaramel%20Macchiato%20425x425%20verde_1.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-02%2FCaramel%20Macchiato%20425x425%20verde_1.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Caramel Macchiato",
+                "description":"Vainilla y leche \"manchada\" con espresso, finalizada con el característico dibujo de caramelo."
+              }
+            ]
+          },
+          {
+            "title":"Mochas",
+            "products":[
+              {
+                "name":"Mocha Blanco",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMocha%20blanco%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMocha%20blanco%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Mocha Blanco",
+                "description":"Chocolate blanco, shots de Espresso y leche vaporizada, con crema batida."
+              },
+              {
+                "name":"Mocha",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMocha%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMocha%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Mocha",
+                "description":"Chocolate con café espresso y leche al vapor, con crema batida."
+
+              }
+            ]
+          },
+          {
+            "title":"Café filtrado",
+            "products":[
+              {
+                "name":"Café del día con leche",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCortado%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCortado%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Café del día con leche",
+                "description":"Nuestras mezclas únicas de café en granos preparadas en sistema de filtrado, con una capa de leche vaporizada."
+              },
+              {
+                "name":"Café del día",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FAmericano%20425x425%20sin%20fondo_0.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FAmericano%20425x425%20sin%20fondo_0.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Café del día",
+                "description":"Nuestras mezclas únicas de café en granos preparadas en sistema de filtrado."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Cafés helados",
+        "param":"cafes-helados",
+        "img":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Caramel%20Macchiato%20425x425%20sin%20fondo_0.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Caramel%20Macchiato%20425x425%20sin%20fondo_0.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+        "subcategory":[
+          {
+            "title":"Shaken Expresso",
+            "products":[
+              {
+                "name":"Avellana Shaken Espresso con Avena Helado",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FShaken%20Espresso%20Frio%20Avellana.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FShaken%20Espresso%20Frio%20Avellana.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Avellana Shaken Espresso con Avena Helado",
+                "description":"Café Espresso batido con jarabe de avellana y cubierto con bebida de avena."
+              },
+              {
+                "name":"Chocolate Shaken Espresso con Avena Helado",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FShaken%20Espresso%20Frio%20Chocolate.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FShaken%20Espresso%20Frio%20Chocolate.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Chocolate Shaken Espresso con Avena Helado",
+                "description":"Café Espresso batido con salsa mocha y cubierto con bebida de avena."
+              }
+            ]
+          },
+          {
+            "title":"Macchiatos",
+            "products":[
+              {
+                "name":"Skinny Caramel Macchiato Helado",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Caramel%20Macchiato%20425x425%20sin%20fondo_0.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Caramel%20Macchiato%20425x425%20sin%20fondo_0.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Skinny Caramel Macchiato Helado",
+                "description":"Hielo, vainilla sin azúcar y leche descremada \"manchada\" con espresso, finalizada con el característico dibujo de caramelo."
+              },
+              {
+                "name":"Caramel Macchiato Helado",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Caramel%20Macchiato%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Caramel%20Macchiato%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Caramel Macchiato Helado",
+                "description":"Hielo, vainilla y leche \"manchada\" con espresso, finalizada con el característico dibujo de caramelo."
+              }
+            ]
+          },
+          {
+            "title":"Cappuccinos",
+            "products":[
+              {
+                "name":"Cappuccino Helado",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Cappuccino%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Cappuccino%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Cappuccino Helado",
+                "description":"El balance perfecto entre nuestro café espresso, hielo, leche y abundante espuma de leche."
+              }
+            ]
+          },
+          {
+            "title":"Lattes",
+            "products":[
+              {
+                "name":"Skinny Vainilla Latte Helado",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FSkinny%20Vainilla%20Latte%20425x425%20sin%20fondo%20(1).png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FSkinny%20Vainilla%20Latte%20425x425%20sin%20fondo%20(1).png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Skinny Vainilla Latte Helado",
+                "description":"Delicioso café espresso con leche descremada, hielo y toques de vainilla sin azúcar."
+              },
+              {
+                "name":"Latte Helado",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Latte%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Latte%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Latte Helado",
+                "description":"Deliciosa combinación de café espresso con hielo y leche."
+              },{
+                "name":"Vainilla Latte Helado",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Vainilla%20Latte%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Vainilla%20Latte%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Vainilla Latte Helado",
+                "description":"Delicioso café espresso con leche, hielo y dulces toques de vainilla."
+              },
+              {
+                "name":"Dulce de Leche Latte Helado",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Dulce%20de%20leche%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Dulce%20de%20leche%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Dulce de Leche Latte Helado",
+                "description":"Café espresso con delicioso dulce de leche, hielo y leche con un remolino de crema batida y salsa de caramelo."
+              }
+            ]
+          },
+          {
+            "title":"Cold Brews",
+            "products":[
+              {
+                "name":"Cold Brew Cold Foam",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCold%20Brew%20Cold%20Foam%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCold%20Brew%20Cold%20Foam%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Cold Brew Cold Foam",
+                "description":"Bebida helada a base de granos de café colombianos infusionados por 20 horas coronada con una cremosa espuma de leche fría."
+              },
+              {
+                "name":"Sweet Vainilla Cold Brew",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCold%20Brew%20Vainilla%20Sweet%20Cream%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCold%20Brew%20Vainilla%20Sweet%20Cream%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Sweet Vainilla Cold Brew",
+                "description":"Bebida helada a base de granos de café colombianos infusionados por 20 horas, endulzada con vainilla y finalizada con crema de leche."
+              },{
+                "name":"Cold Brew",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCold%20Brew%20Black%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCold%20Brew%20Black%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Cold Brew",
+                "description":"Bebida helada a base de granos de café colombianos infusionados por 20 horas."
+              }
+            ]
+          },
+          {
+            "title":"Americanos",
+            "products":[
+              {
+                "name":"Americano Helado",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Americano%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Americano%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Americano Helado",
+                "description":"Delicioso café espresso combinado con agua y hielo, al mejor estilo americano."
+              }
+            ]
+          },
+          {
+            "title":"Mochas",
+            "products":[
+              {
+                "name":"Mocha Blanco Helado",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Mocha%20Blanco%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Mocha%20Blanco%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Mocha Blanco Helado",
+                "description":"Irresistible combinación de chocolate blanco, shots de espresso, hielo y leche, coronado con crema batida."
+              },
+              {
+                "name":"Mocha Helado",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Mocha%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Mocha%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Mocha Helado",
+                "description":"Intenso chocolate con café espresso, hielo y leche, coronado con crema batida."
+              }
+            ]
+          },
+          {
+            "title":"Café filtrado",
+            "products":[
+              {
+                "name":"Café del día con Leche Helado",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCortado%20425x425%20sin%20fondo%20(1).png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCortado%20425x425%20sin%20fondo%20(1).png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Café del día con Leche Helado",
+                "description":"Nuestros exquisitos y selectos granos de café preparados en método filtrado y agregado de hielo para una infusión refrescante."
+              },
+              {
+                "name":"Café del día Helado",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Americano%20425x425%20sin%20fondo_0.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Americano%20425x425%20sin%20fondo_0.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Café del día Helado",
+                "description":"Nuestros exquisitos y selectos granos de café preparados en método filtrado."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Frappuccino",
+        "param":"frappuccino",
+        "img":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FDulce%20de%20leche%20Frapp%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FDulce%20de%20leche%20Frapp%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+        "subcategory":[
+          {
+            "title":"Frappuccino con café",
+            "products":[
+              {
+                "name":"Café Frappuccino®",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCafe%20Frapp%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCafe%20Frapp%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Café Frappuccino®",
+                "description":"Frappuccino a base de café. Dulce y cremosa combinación de café, leche y hielo."
+              },
+              {
+                "name":"Caramel Frappuccino® ",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCaramel%20Frapp%20425x425%20sin%20fondo%20(1).png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCaramel%20Frapp%20425x425%20sin%20fondo%20(1).png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Caramel Frappuccino® ",
+                "description":"Frappuccino a base de café. Dulce combinación de caramelo, café, leche y hielo, decorado con un remolino de crema batida y topping de caramelo."
+              },
+              {
+                "name":"Mocha Blanco Frappuccino®",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FWhite%20Mocha%20Frapp%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FWhite%20Mocha%20Frapp%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Mocha Blanco Frappuccino®",
+                "description":"Frappuccino a base de café. Deliciosa mezcla que combina café, leche y chocolate blanco, batido con hielo, coronado con crema batida y salsa de mocha."
+              },
+              {
+                "name":"Mocha Frappuccino®",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMocha%20Frapp%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMocha%20Frapp%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Mocha Frappuccino®",
+                "description":"Frappuccino a base de café. Deliciosa mezcla que combina café, leche y chocolate, batido con hielo, coronado con crema batida y salsa de mocha."
+              }
+            ]
+          },
+          {
+            "title":"Frappuccino sin café",
+            "products":[
+              {
+                "name":"Chai Frappuccino®",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FWhite%20Mocha%20Frapp%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FWhite%20Mocha%20Frapp%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Chai Frappuccino®",
+                "description":"Nuestro Té Chai combinado con leche, hielo molido y una deliciosa terminación de crema batida."
+              },
+              {
+                "name":"Mocha Creme Frappuccino®",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMocha%20Frapp%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMocha%20Frapp%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Mocha Creme Frappuccino®",
+                "description":"Frappuccino a base de crema. Perfecta combinación a base de crema y chocolate, batida con hielo, decorada con crema batida y salsa de chocolate."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Té caliente",
+        "param":"te-caliente",
+        "img":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FEnglish%20Breakfast%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FEnglish%20Breakfast%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+        "subcategory":[
+          {
+            "title":"Té Verde",
+            "products":[
+              {
+                "name":"Mint Citrus",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMint%20Citrus%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMint%20Citrus%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Mint Citrus",
+                "description":"La base de hierbabuena de este té se complementa con notas de menta fresca y toques de verbena dulce y especiada."
+              }
+            ]
+          },
+          {
+            "title":"Té Chai",
+            "products":[
+              {
+                "name":"Chai",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FChai%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FChai%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Chai",
+                "description":"Deliciosa combinación de té y especias, al estilo de los habitantes del Himalaya. Una intensa infusión de canela, jengibre, cardamomo, pimienta negra y anís estrellado."
+              },
+              {
+                "name":"Chai Latte",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FChai%20Latte%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FChai%20Latte%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Chai Latte",
+                "description":"Nuestro mezcla de té chai y leche perfectamente vaporizada, decorado con una sutil capa de espuma de leche."
+              }
+            ]
+          },
+          {
+            "title":"Infusiones",
+            "products":[
+              {
+                "name":"Youthberry",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FYouthberry%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FYouthberry%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Youthberry",
+                "description":"Una mezcla de té blanco cítrico con toques brillantes de sabor tropical. Con mango, naranja, hibisco y pétalos de rosa. Hay un toque de paraíso en cada sorbo de esta fantástica mezcla."
+              },
+              {
+                "name":"Hibiscus",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FYouthberry%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FYouthberry%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Hibiscus",
+                "description":"Las flores de hibisco impregnan esta infusión de una ligera acidez y un extraordinario color rojizo. Brillantes sabores tropicales de papaya y mango con hierba limón cítrica y una pizca de canela."
+              }
+            ]
+          },
+          {
+            "title":"Té Negro",
+            "products":[
+              {
+                "name":"Early Grey",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FEnglish%20Breakfast%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FEnglish%20Breakfast%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Early Grey",
+                "description":"Té re loco de algún lado del mundo."
+              },
+              {
+                "name":"English Breakfast",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FEnglish%20Breakfast%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FEnglish%20Breakfast%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"English Breakfast",
+                "description":"Mezcla de tés negros: Assam de la India, Ceilán de Sri Lanka y té negro de China. Los tés de Assam añaden toques profundos de malta y té negro y un rico aroma a caramelo. Los tés de Ceilán aportan un sabor brillante y completo, mientras que los de China tienen un sutil toque como recién recién horneado, lo cual hace del English Breakfast una opción única."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Té helado",
+        "param":"te-helado",
+        "img":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FTe%20Verde%20Frutilla%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FTe%20Verde%20Frutilla%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+        "subcategory":[
+          {
+            "title":"Té Herbal helado",
+            "products":[
+              {
+                "name":"Shaken Lemonade Hibiscus",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FTe%20Verde%20Frutilla%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FTe%20Verde%20Frutilla%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Shaken Lemonade Hibiscus",
+                "description":"Nuestro té de hibiscus combinado con limón y mezclado con hielo."
+              }
+            ]
+          },
+          {
+            "title":"Té Verde helado",
+            "products":[
+              {
+                "name":"Shaken Lemonade Green Tea",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Green%20Lemon%20Tea%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Green%20Lemon%20Tea%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Shaken Lemonade Green Tea",
+                "description":"Nuestro té verde combinado con limón y mezclado con hielo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Heladas",
+        "param":"heladas",
+        "img":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMango%20Dragonfruit%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMango%20Dragonfruit%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+        "subcategory":[
+          {
+            "title":"Refreshers",
+            "products":[
+              {
+                "name":"Mango Dragonfruit Limonada",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMango%20Dragonfruit%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMango%20Dragonfruit%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Mango Dragonfruit Limonada",
+                "description":"Limonada con Mango Dragon Fruit, el sabor de esta fruta se ha descripto como una mezcla ligeramente dulce entre un kiwi y una pera."
+              },
+              {
+                "name":"Frutilla Açai",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FFrutilla%20A%C3%A7ai%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FFrutilla%20A%C3%A7ai%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Frutilla Açai",
+                "description":"Frutilla, con un toque de açaí, un fruto rojo y exótico que nos recuerda el sabor del cacao y la canela."
+              },
+              {
+                "name":"Dragon Drink",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FDragon%20Drink%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FDragon%20Drink%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Dragon Drink",
+                "description":"Leche de coco con Mango Dragon Fruit, el sabor de esta fruta se ha descripto como una mezcla ligeramente dulce entre un kiwi y una pera."
+              },
+              {
+                "name":"Pink Drink",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FPink%20Drink%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FPink%20Drink%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Pink Drink",
+                "description":"Frutilla, leche de coco, con un toque de açaí, un fruto rojo y exótico que nos recuerda el sabor del cacao y la canela."
+              },
+              {
+                "name":"Mango Dragonfruit Frozen Refresher",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FFrozen%20Mango%20Dragonfruit%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FFrozen%20Mango%20Dragonfruit%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Mango Dragonfruit Frozen Refresher",
+                "description":"Una combinación refrescante de mando y dragonfruit con extracto de café verde y hielo molido."
+              },
+              {
+                "name":"Frutilla Acaí Frozen Refresher",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FFrozen%20Frutilla%20A%C3%A7ai%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FFrozen%20Frutilla%20A%C3%A7ai%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Frutilla Acaí Frozen Refresher",
+                "description":"La dulzura de las frutillas combinada con hibiscus, notas de açaí y extracto de café verde con hielo molido."
+              },
+              {
+                "name":"Mango Dragonfruit",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMango%20Dragonfruit%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMango%20Dragonfruit%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Mango Dragonfruit",
+                "description":"Mango Dragon Fruit, el sabor de esta fruta se ha descripto como una mezcla ligeramente dulce entre un kiwi y una pera."
+              },
+              {
+                "name":"Frutilla Açai Limonada",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FFrutilla%20A%C3%A7ai%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FFrutilla%20A%C3%A7ai%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Frutilla Açai Limonada",
+                "description":"Frutilla, limonada, con un toque de açaí, un fruto rojo y exótico que nos recuerda el sabor del cacao y la canela."
+              }
+            ]
+          },
+          {
+            "title":"Jugos, aguas y bebidas saborizadas",
+            "products":[
+              {
+                "name":"Jugo de manzana",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Green%20Lemon%20Tea%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Green%20Lemon%20Tea%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Jugo de manzana",
+                "description":"Jugo de manzana 300ml."
+              },
+              {
+                "name":"Jugo de naranja",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Green%20Lemon%20Tea%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Green%20Lemon%20Tea%20425x425%20sin%20fondo.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Jugo de naranja",
+                "description":"Jugo de naranja 300ml"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Calientes",
+        "param":"calientes",
+        "img":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FChocolate%20Caliente%20425x425%20sin%20fondo%20(1).png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FChocolate%20Caliente%20425x425%20sin%20fondo%20(1).png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+        "subcategory":[
+          {
+            "title":"Chocolates",
+            "products":[
+              {
+                "name":"Chocolate Caliente",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FChocolate%20Caliente%20425x425%20sin%20fondo%20(1).png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FChocolate%20Caliente%20425x425%20sin%20fondo%20(1).png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Chocolate Caliente",
+                "description":"Una deliciosa mezcla de chocolate, vainilla y leche, decorada con crema batida y salsa de chocolate."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Comida",
+    "paramMenu":"comida",
+    "category":[
+      {
+        "title":"Bakery",
+        "paramCategory":"bakery",
+        "img":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCroissant-Relleno-Avellana-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCroissant-Relleno-Avellana-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+        "subcategory":[
+          {
+            "title":"Recién horneados",
+            "products":[
+              {
+                "name":"Croissant Relleno con Crema de Avellanas",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCroissant-Relleno-Avellana-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCroissant-Relleno-Avellana-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Croissant Relleno con Crema de Avellanas",
+                "description":"Croissant con masa de hojaldre y cubierto con una salsa de cacao y avellanas."
+              },
+              {
+                "name":"Croissant",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCroissant-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCroissant-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Croissant",
+                "description":"Elaborado con masa de hojaldre crujiente y salada, nuestro Croissant se hornea especialmente para vos."
+              },
+              {
+                "name":"Chocolate Croissant",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FChocolate-Croissant-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FChocolate-Croissant-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Chocolate Croissant",
+                "description":"Exquisita masa de hojaldre rellena de chocolate semiamargo y horneado especialmente para vos."
+              },
+              {
+                "name":"Mezzaluna",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMezzaluna-425-x-425_0.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMezzaluna-425-x-425_0.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Mezzaluna",
+                "description":"La clásica medialuna reversionada a la manera de Starbucks: Crujiente, esponjosa, de mayor tamaño y ¡recién horneada!"
+              },
+              {
+                "name":"Mezzaluna rellena con jamón y queso",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMezzaluna-rellena-425-x-425_0.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMezzaluna-rellena-425-x-425_0.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Mezzaluna rellena con jamón y queso",
+                "description":"Nuestra Mezzaluna recién horneada, rellena con queso tybo y jamón cocido."
+              }
+            ]
+          },
+          {
+            "title":"Croissants, Rolls & más",
+            "products":[
+              {
+                "name":"Trenzado de Ricota y Cítricos",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FTrenzado-Ricota-y-Citrico-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FTrenzado-Ricota-y-Citrico-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Trenzado de Ricota y Cítricos",
+                "description":"Cosa rica."
+              },
+              {
+                "name":"Croissant Relleno con Crema de Avellanas",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCroissant-Relleno-Avellana-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCroissant-Relleno-Avellana-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Croissant Relleno con Crema de Avellanas",
+                "description":"Croissant con masa de hojaldre y cubierto con una salsa de cacao y avellanas."
+              },
+              {
+                "name":"Croissant",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCroissant-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCroissant-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Croissant",
+                "description":"Elaborado con masa de hojaldre crujiente y salada, nuestro Croissant se hornea especialmente para vos."
+              },
+              {
+                "name":"Mezzaluna rellena con jamón y queso",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMezzaluna-rellena-425-x-425_0.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMezzaluna-rellena-425-x-425_0.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Mezzaluna rellena con jamón y queso",
+                "description":"Nuestra Mezzaluna recién horneada, rellena con queso tybo y jamón cocido."
+              },
+              {
+                "name":"Double Choco Brownie",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FDouble-Choco-Brownie-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FDouble-Choco-Brownie-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Double Choco Brownie",
+                "description":"Brownie húmedo de chocolate."
+              },
+              {
+                "name":"Roll de manzana",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FRoll-de-Manzana-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FRoll-de-Manzana-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Roll de manzana",
+                "description":"Anillo de suave masa horneada relleno con manzana."
+              },
+              {
+                "name":"Roll de canela",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FRoll-de-Canela-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FRoll-de-Canela-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Roll de canela",
+                "description":"Anillo de suave masa horneada relleno con canela."
+              },
+              {
+                "name":"Donut rellena de Dulce de leche",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FDonut-Rellena-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FDonut-Rellena-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Donut rellena de Dulce de leche",
+                "description":"Donut rellena con dulce de leche y glaseada."
+              },
+              {
+                "name":"Chocolate Croissant",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FChocolate-Croissant-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FChocolate-Croissant-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Chocolate Croissant",
+                "description":"Exquisita masa de hojaldre rellena de chocolate semiamargo y horneado especialmente para vos."
+              },
+              {
+                "name":"Mezzaluna",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMezzaluna-425-x-425_0.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMezzaluna-425-x-425_0.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Mezzaluna",
+                "description":"La clásica medialuna reversionada a la manera de Starbucks: Crujiente, esponjosa, de mayor tamaño y ¡recién horneada!"
+              }
+            ]
+          },
+          {
+            "title":"Salados",
+            "products":[
+              {
+                "name":"Cheese Avocado Scon",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCheese-Avocado-Toast-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCheese-Avocado-Toast-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Cheese Avocado Scon",
+                "description":"Nuestro clásico scon de queso con queso crema y avocado."
+              },
+              {
+                "name":"Bagel Avocado Toast",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBagel-Avocado-Toast-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBagel-Avocado-Toast-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Bagel Avocado Toast",
+                "description":"Nuestro clásico Bagel Multicereal con queso crema y avocado."
+              },
+              {
+                "name":"Avocado Toast",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FAvocado-Toast-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FAvocado-Toast-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Avocado Toast",
+                "description":"Tostada en pan artesanal con queso crema y avocado."
+              },
+              {
+                "name":"Tostada Artesanal ",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FTostada-Artesanal-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FTostada-Artesanal-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Tostada Artesanal ",
+                "description":"Pan de campo tostado, con queso crema y mermelada de frutos rojos para untar."
+              },
+              {
+                "name":"Scon 4 quesos",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FScon-4-quesos-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FScon-4-quesos-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Scon 4 quesos",
+                "description":"Queso pategrás, sardo, reggiano y holanda se combinan en una esponjosa masa tibia."
+              },
+              {
+                "name":"Bagel Multicereal",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBagel-Multicereal-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBagel-Multicereal-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Bagel Multicereal",
+                "description":"Pan tostado con variedad de semillas y cereales, acompañado con queso crema y mermelada de frutos rojos para untar."
+              },
+              {
+                "name":"Pan de Queso",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FPan-de-Queso-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FPan-de-Queso-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Pan de Queso",
+                "description":"Nuestro tradicional pan de queso."
+              }
+            ]
+          },
+          {
+            "title":"Muffins",
+            "products":[
+              {
+                "name":"Muffin de Arándanos",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMuffin-Arandanos-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMuffin-Arandanos-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Muffin de Arándanos",
+                "description":"Suave, dulce y esponjoso Muffin con arándanos y notas cítricas, con una cubierta de crumble."
+              },
+              {
+                "name":"Muffin de dulce de leche",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMuffin-Ddl-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMuffin-Ddl-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Muffin de dulce de leche",
+                "description":"Exquisito muffin de vainilla con un corazón de dulce de leche."
+              },
+              {
+                "name":"Muffin de Chocolate",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMuffin-Chocolate-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMuffin-Chocolate-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Muffin de Chocolate",
+                "description":"Suave masa de chocolate con chips de chocolate en su interior."
+              },
+              {
+                "name":"Muffin Choco Chips",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMuffin-Choc-Chips-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMuffin-Choc-Chips-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Muffin Choco Chips",
+                "description":"Esponjoso y húmedo muffin de vainilla con chips de chocolate."
+              }
+            ]
+          },
+          {
+            "title":"Budines",
+            "products":[
+              {
+                "name":"Banana Loaf Cake",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBanana-Loaf-Cake-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBanana-Loaf-Cake-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Banana Loaf Cake",
+                "description":"Cake Húmedo de banana combinado con chispas de chocolate."
+              },
+              {
+                "name":"Marble Loaf Cake",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMarble-Loaf-Cake-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMarble-Loaf-Cake-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Marble Loaf Cake",
+                "description":"Esponjoso cake que combina sabores de vainilla e intenso chocolate."
+              },
+              {
+                "name":"Lemon Pound Cake",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FLemon-Pound-Cake-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FLemon-Pound-Cake-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Lemon Pound Cake",
+                "description":"Exquisito cake de limon, bañado con un glaseado dulce y cítrico."
+              }
+            ]
+          },
+          {
+            "title":"Tortas",
+            "products":[
+              {
+                "name":"Cheesecake Frutos Rojos",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCheesecake-FR-425x425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCheesecake-FR-425x425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Cheesecake Frutos Rojos",
+                "description":"Cheesecake con cobertura de salsa de frutos rojos."
+              },
+              {
+                "name":"Cookies Cake",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCookies-Cake-425x425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCookies-Cake-425x425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Cookies Cake",
+                "description":"Torta de chocolate cubierta con crema de cookies de chocolate."
+              },
+              {
+                "name":"Key Lime Pie",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FKey-Lime-425x425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FKey-Lime-425x425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Key Lime Pie",
+                "description":"Base de masa brisse, relleno de mousse de lima, decorada con crema y lima."
+              },
+              {
+                "name":"Apple Crumble",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FApple-Crumble-425x425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FApple-Crumble-425x425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Apple Crumble",
+                "description":"Masa de vainilla con relleno de manzanas verdes, cubierto por una exquisita cobertura crocante."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Sándwichs & preparados",
+        "param":"almuerzos",
+        "img":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBagel-Sandwich-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBagel-Sandwich-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+        "subcategory":[
+          {
+            "title":"Sándwichs & más",
+            "products":[
+              {
+                "name":"Sándwich con Jamón y Queso en Pan Artesanal",
+                "opcional":"Gluten Free",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FSand-JyQ-Gluten-Free-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FSand-JyQ-Gluten-Free-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Sándwich con Jamón y Queso en Pan Artesanal",
+                "description":"Con un suave y aireado pan artesanal relleno de jamón y queso, este sándwich es una deliciosa opción gluten free."
+              },
+              {
+                "name":"Focaccia Caprese",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FFocaccia-Caprese-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FFocaccia-Caprese-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Focaccia Caprese",
+                "description":"Pan de focaccia espolvoreado con queso, relleno de tomate, queso y una deliciosa crema de pesto."
+              },
+              {
+                "name":"Sandwich Pollo Multicereal ",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FSand-Pollo-Multi-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FSand-Pollo-Multi-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Sandwich Pollo Multicereal ",
+                "description":"Ciabatta de pan multicereal rellena de pollo, queso, tomate y mayonesa."
+              },
+              {
+                "name":"Bagel Sandwich",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBagel-Sandwich-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBagel-Sandwich-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Bagel Sandwich",
+                "description":"Exquisito bagel multicereal combinado con queso cheddar, panceta y huevo."
+              },
+              {
+                "name":"Sandwich Tres Quesos",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FSand-3-Quesos-ARG-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FSand-3-Quesos-ARG-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Sandwich Tres Quesos",
+                "description":"Sandwich de pan artesanal relleno con queso muzzarella, parmesano y cheddar."
+              },
+              {
+                "name":"Croque Monsieur",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCroque-Monsieur-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCroque-Monsieur-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Croque Monsieur",
+                "description":"Delicioso sandwich de jamón y queso, combinado con salsa bechamel y queso gratinado."
+              },
+              {
+                "name":"Tostado de jamón y queso",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FTostado-JyQ-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FTostado-JyQ-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Tostado de jamón y queso",
+                "description":"Un clásico triángulo de jamón y queso, en pan de miga blanco con semillas de amapola."
+              },
+              {
+                "name":"Tarta de Puerro",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FTarta-Puerro-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FTarta-Puerro-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Tarta de Puerro",
+                "description":"Deliciosa tarta rellena de puerro, cebolla y queso."
+              },
+              {
+                "name":"Tarta de Calabaza",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FTarta-Calabaza-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FTarta-Calabaza-425-x-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Tarta de Calabaza",
+                "description":"Exquisita tarta con masa integral rellena de calabaza, queso gratinado y semillas."
+              }
+            ]
+          },
+          {
+            "title":"Ensaladas & Wraps",
+            "products":[
+
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Snacks",
+        "param":"snacks",
+        "img":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMoneda-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMoneda-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+        "subcategory":[
+          {
+            "title":"Frutos secoc & más",
+            "products":[
+              {
+                "name":"Porridge Avena Chocolate y Maní",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FPorridge-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FPorridge-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Porridge Avena Chocolate y Maní",
+                "description":"Bowl con Avena y maní."
+              },
+              {
+                "name":"Mix de Frutos Secos",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMix-frutos-secos-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMix-frutos-secos-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Mix de Frutos Secos",
+                "description":"Mezcla de chips de banana, castañas, nueces, pasas de uva morenas y rubias."
+              },
+              {
+                "name":"Barra de Cereal Almendras",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBarra-Almendras-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBarra-Almendras-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Barra de Cereal Almendras",
+                "description":"Barra dulce de cereales con almendras."
+              }
+            ]
+          },
+          {
+            "title":"Chocolates",
+            "products":[
+              {
+                "name":"Moneda de Chocolate",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMoneda-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMoneda-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Moneda de Chocolate",
+                "description":"Moneda de chocolate con leche."
+              }
+            ]
+          },
+          {
+            "title":"Biscotti & Cookies",
+            "products":[
+              {
+                "name":"Biscotti con Castañas",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBarra-Castanias-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBarra-Castanias-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Biscotti con Castañas",
+                "description":"Barra de castañas."
+              },
+              {
+                "name":"Cookie Super Chocolate",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCookie-Chocolate-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCookie-Chocolate-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Cookie Super Chocolate",
+                "description":"Deliciosa cookie de chocolate con chips de chocolate."
+              },
+              {
+                "name":"Cookie Chips y Pecan",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCookie-Chips-Pecan-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCookie-Chips-Pecan-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Cookie Chips y Pecan",
+                "description":"Deliciosa cookie de vainilla con chips de chocolate y nueces pecan."
+              },
+              {
+                "name":"Cookie Limón y Jengibre",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2F_Cookie-Limon-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2F_Cookie-Limon-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Cookie Limón y Jengibre",
+                "description":"Deliciosa cookie sabor limón y jengibre."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title":"En casa",
+    "paramMenu":"en-casa",
+    "category":[
+      {
+        "title":"Café en granos",
+        "param":"cafe-en-granos",
+        "img":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-02%2FCafe-verona_1.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-02%2FCafe-verona_1.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+        "subcategory":[
+          {
+            "title":"Tostado Blonde",
+            "products":[
+              {
+                "name":"Nicaragua Single Origin ",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FNicaragua-Single-425x425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FNicaragua-Single-425x425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Nicaragua Single Origin ",
+                "description":"Café de Nicaragua."
+              }
+            ]
+          },
+          {
+            "title":"Tostado Medio",
+            "products":[
+              {
+                "name":"Guatemala Casi Cielo",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCasi-Cielo-425x425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCasi-Cielo-425x425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Guatemala Casi Cielo",
+                "description":"Este café de origen es una celebración de toda la magia de los fértiles valles de Antigua en Guatemala. De tostado y cuerpo medio, tiene un brillo seductor similar al del limón y notas de chocolate suave."
+              },
+              {
+                "name":"Café Colombia",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FColombia-425x425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FColombia-425x425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Café Colombia",
+                "description":"Café de origen, su tostado y cuerpo es medio con sutiles sabores a frutos secos y hierbas frescas. Acompañá tu café con un complemento de chocolate o caramelo."
+              },
+              {
+                "name":"Café Pike Place",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FPike-Place-425x425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FPike-Place-425x425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Café Pike Place",
+                "description":"Este café conmemora nuestra primera tienda en el Pike Place Market de Seattle. Un café que es nuestra identidad: una mezcla suave y equilibrada de granos de Latinoamérica con sabores sutilmente intensos a cacao y a frutos secos tostados. Disfrutalo con un Chocolate Croissant o con un Muffin de Choco Chips. Contenido: 250gr."
+              }
+            ]
+          },
+          {
+            "title":"Tostado Oscuro",
+            "products":[
+              {
+                "name":"Café Sumatra",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FSumatra-425x425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FSumatra-425x425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Café Sumatra",
+                "description":"Café de origen con tostado oscuro, cuerpo completo y consistente. Su sabor predominante es terroso y herbal. Acompañá tu café con un complemento de canela, avena o queso. Probalo con nuestro Scon de 4 quesos!"
+              },
+              {
+                "name":"Café Verona",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FVerona-425x425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FVerona-425x425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Café Verona",
+                "description":"Blend de granos de Latinoamérica e Indonesia. Es un café de tostado oscuro con sabores a cacao negro y dulce. Acompañá tu café con un complemento de chocolate, nueces, caramelo o especias. Contenido: 250 g"
+              },
+              {
+                "name":"Café Espresso Roast",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FEspresso-425x425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FEspresso-425x425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Café Espresso Roast",
+                "description":"Blend de granos de Latinoamérica con un tostado oscuro. Es el corazón de todas nuestras bebidas que podes tener en tu casa. Su sabor es intenso, dulce y acaramelado, ideal para acompañarlo con un complemento de chocolate, nueves, caramelo o especias."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Té",
+        "param":"te",
+        "img":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-02%2FCAJA-TE-HIBISCUS_2.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-02%2FCAJA-TE-HIBISCUS_2.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+        "subcategory":[
+          {
+            "title":"Infusiones",
+            "products":[
+              {
+                "name":"Té Hibiscus ",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FHibiscus-Te-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FHibiscus-Te-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Té Hibiscus ",
+                "description":"Las flores de hibisco impregnan esta infusión de una ligera acidez y un extraordinario color rojizo. Brillantes sabores tropicales de papaya y mango con hierba limón cítrica y una pizca de canela. Contiene 12 unidades de 3,4 g."
+              },
+              {
+                "name":"Té Youthberry ",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FYouthberry-Tea-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FYouthberry-Tea-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Té Youthberry ",
+                "description":"Una mezcla de té blanco cítrico con toques brillantes de sabor tropical. Con mango, naranja, hibisco y pétalos de rosa. Hay un toque de paraíso en cada sorbo de esta fantástica mezcla. Contiene 12 unidades de 3,4 g."
+              }
+            ]
+          },
+          {
+            "title":"Té Chai",
+            "products":[
+              {
+                "name":"Té Chai",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FChai-Tea-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FChai-Tea-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Té Chai",
+                "description":"Deliciosa combinación de té y especias, al estilo de los habitantes del Himalaya. Una intensa infusión de canela, jengibre, cardamomo, pimienta negra y anís estrellado. Contiene 12 unidades de 3,4 g."
+              }
+            ]
+          },
+          {
+            "title":"Té Negro",
+            "products":[
+              {
+                "name":"Té Earl Grey",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FEarl-Grey-Tea-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FEarl-Grey-Tea-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Té Earl Grey",
+                "description":"Una brillante mezcla de tés negros de Sri Lanka con una aromática esencia de bergamota y lavanda. Contiene 12 unidades de 3,4 g."
+              },
+              {
+                "name":"Té English Breakfast",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FTel-English-Breakfast-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FTel-English-Breakfast-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Té English Breakfast",
+                "description":"Mezcla de tés negros: Assam de la India, Ceilán de Sri Lanka y té negro de China. Los tés de Assam añaden toques profundos de malta y té negro y un rico aroma a caramelo. Los tés de Ceilán aportan un sabor brillante y completo, mientras que los de China tienen un sutil toque como recién recién horneado, lo cual hace del English Breakfast una opción única. Contiene 12 unidades de 3,4 g."
+              }
+            ]
+          },
+          {
+            "title":"Té Verde",
+            "products":[
+              {
+                "name":"Té Mint Citrus",
+                "imgSrc":"https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMint-Citrus-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop 1x, https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMint-Citrus-425.png?auto=format,compress&q=70&crop=focalpoint&ar=1:1.0&w=180&fit=crop&dpr=2 2x",
+                "imgAlt":"Té Mint Citrus",
+                "description":"La base de hierbabuena de este té se complementa con notas de menta fresca y toques de verbena dulce y especiada.  Contiene 12 unidades de 3,4 g."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
