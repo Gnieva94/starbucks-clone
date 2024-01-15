@@ -1,7 +1,7 @@
 import { useState } from "react"
 import { ItemCategoria } from "../components/ItemCategoria"
 
-export const Categoria = ({title, paramMenu, category}) => {
+export const Categoria = ({title, paramMenu="", category}) => {
   const [categorias, setCategorias] = useState(category)
   return (
     <article>

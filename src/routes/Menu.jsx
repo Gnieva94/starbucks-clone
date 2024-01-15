@@ -20,7 +20,21 @@ export const Menu = () => {
   useEffect(() => {
     getCategorias()
   }, [])
-
+  const listaFiltrada = () => {
+    for(let item of menu){
+      if(item.paramMenu == param.principal){
+        // for(let i of item.category){
+        //   if(i.param == param.category){
+        //     return i.subcategory
+        //   }
+        // }
+        console.log(item)
+        return item;
+      }
+    }
+  }
+  let lista = hayParam ? listaFiltrada() : []
+  console.log(lista)
   return (
     <main>
       <div>
@@ -44,9 +58,7 @@ export const Menu = () => {
           ? 
           <>
             {
-              menu.filter(item => {
-                
-                item.category.some(item => item.param == param.category)}).map((item, index) => (
+              lista.map((item, index) => (
                 <Categoria key={index} {...item} />
               ))
             }
