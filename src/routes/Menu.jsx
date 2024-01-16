@@ -4,37 +4,51 @@ import { Categoria } from '../containers/Categoria'
 import { useParams } from 'react-router-dom'
 
 export const Menu = () => {
-  const param = useParams()
-
-  const hayParam = param.principal && param.category
   const [menu, setMenu] = useState([])
+  const [menuFiltrado, setMenuFiltrado] = useState([])
+  console.log("Menu")
+  const param = useParams()
+  console.log(param.principal)
+  console.log(param.category)
+  //const [hayParam, setHayParam] = useState(false)
   const getCategorias = async () => {
     try {
       const response = await fetch("/data/menu.json")
       const data = await response.json()
       setMenu(data)
+      console.log("getCategorias")
     } catch (error) {
       console.log(error)
     }
   }
-  useEffect(() => {
-    getCategorias()
-  }, [])
   const listaFiltrada = () => {
     for(let item of menu){
       if(item.paramMenu == param.principal){
-        // for(let i of item.category){
-        //   if(i.param == param.category){
-        //     return i.subcategory
-        //   }
-        // }
-        console.log(item)
-        return item;
+        for(let i of item.category){
+          if(i.param == param.category)
+            setMenuFiltrado(i.subcategory)
+        }
       }
     }
   }
-  let lista = hayParam ? listaFiltrada() : []
-  console.log(lista)
+  let hayParam = false;
+  if(param.principal != null && param.category != null){
+    //setHayParam(true)
+    console.log("hay param")
+    hayParam = true
+    
+  }else{
+    console.log("no hay param")
+  }
+  useEffect(() => {
+    if(menu.length == 0){
+      getCategorias()
+    }
+    if(hayParam){
+      console.log("hay param useefect")
+      listaFiltrada()
+    }
+  }, [])
   return (
     <main>
       <div>
@@ -58,19 +72,23 @@ export const Menu = () => {
           ? 
           <>
             {
-              lista.map((item, index) => (
-                <Categoria key={index} {...item} />
+              /*subcategory */
+              menuFiltrado.map((item, index) => (
+                <Categoria key={index} paramMenu={param.principal} param={param.category} hayParam={hayParam} {...item} />
               ))
             }
           </>
           :
           <>
-            {menu.map((item, index) => (
-              <Categoria key={index} {...item} />
-            ))}
+            {
+              /* category */
+              menu.map((item, index) => (
+                <Categoria key={index} {...item} />
+              ))
+            }
           </>
         }
-        {/* titulo, array con categorias */}
+        {}
       </section>
     </main>
   )

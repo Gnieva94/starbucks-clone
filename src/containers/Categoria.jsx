@@ -1,16 +1,44 @@
-import { useState } from "react"
+import { useState, useEffect } from "react"
 import { ItemCategoria } from "../components/ItemCategoria"
 
-export const Categoria = ({title, paramMenu="", category}) => {
-  const [categorias, setCategorias] = useState(category)
+//!hayParam => title,paramMenu,category
+//hayParam => subcategory
+export const Categoria = ({ title, paramMenu, param, category, products, hayParam }) => {
+  const [categorias, setCategorias] = useState([])
+  const [prod, setProd] = useState([])
+  
+  useEffect(() => {
+    if(hayParam){
+      setProd(products)
+    }else{
+      setCategorias(category)
+    }
+  }, [hayParam])
   return (
     <article>
       <h3>{title}</h3>
       <ul>
-        {/* title, img, subcategory */}
-        {categorias.map((item, index) => (
-          <ItemCategoria key={index} paramMenu={paramMenu} {...item} />
-        ))}
+        {/*Category=> title, param, img, subcategory 
+          products => title, imgsrc,imgalt,description*/}
+        {
+          hayParam
+          ? <>
+              {
+                prod.map((item, index) => (
+                  <ItemCategoria key={index} hayParam={hayParam}  paramMenu={paramMenu} param={param} {...item} />
+                ))
+              }
+            </>
+          : 
+            <>
+              {
+                categorias.map((item, index) => (
+                  <ItemCategoria key={index} hayParam={hayParam}  paramMenu={paramMenu} param={param} {...item} />
+                ))
+              }
+              </>
+          
+        }
       </ul>
     </article>
   )
