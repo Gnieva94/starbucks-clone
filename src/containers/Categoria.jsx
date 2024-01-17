@@ -1,45 +1,39 @@
-import { useState, useEffect } from "react"
-import { ItemCategoria } from "../components/ItemCategoria"
+import { useEffect, useContext } from 'react'
+import { Link, useParams } from 'react-router-dom'
+import Contexto from '../context/Contexto'
 
-//!hayParam => title,paramMenu,category
-//hayParam => subcategory
-export const Categoria = ({ title, paramMenu, param, category, products, hayParam }) => {
-  const [categorias, setCategorias] = useState([])
-  const [prod, setProd] = useState([])
-  
+export const Categoria = () => {
+  const { subcategory, getSubcategory } = useContext(Contexto)
+  //console.log(filtered.subcategory)
+  const param = useParams()
   useEffect(() => {
-    if(hayParam){
-      setProd(products)
-    }else{
-      setCategorias(category)
-    }
-  }, [hayParam])
+    getSubcategory(param)
+  }, [])
+
   return (
-    <article>
-      <h3>{title}</h3>
-      <ul>
-        {/*Category=> title, param, img, subcategory 
-          products => title, imgsrc,imgalt,description*/}
+    <main>
+      <div>
+        <span><Link to={'/menu'}>Menú</Link> / {subcategory.title}</span>
+        <h2>{subcategory.title}</h2>
+      </div>
+      <section>
         {
-          hayParam
-          ? <>
-              {
-                prod.map((item, index) => (
-                  <ItemCategoria key={index} hayParam={hayParam}  paramMenu={paramMenu} param={param} {...item} />
-                ))
-              }
-            </>
-          : 
-            <>
-              {
-                categorias.map((item, index) => (
-                  <ItemCategoria key={index} hayParam={hayParam}  paramMenu={paramMenu} param={param} {...item} />
-                ))
-              }
-              </>
-          
+          (subcategory && subcategory.subcategory) && 
+          subcategory.subcategory.map((subcat)=>(
+            <article key={subcat.id}>
+              <h3>{subcat.title}</h3>
+              {subcat.products.map((prod)=>(
+                <li key={prod.id}>
+                <Link to={`/producto/${prod.id}`}>
+                  <img src={prod.imgSrc} alt={prod.imgAlt} />
+                  <h4>{prod.name}</h4>
+                </Link>
+              </li>
+              ))}
+            </article>
+          ))
         }
-      </ul>
-    </article>
+      </section>
+    </main>
   )
 }
