@@ -38,7 +38,6 @@ export const UsarContexto = ({children}) => {
     .find(prod => prod.id === id);
 
     if (product) {
-      console.log(product);
       dispatch({ type: "GET_PRODUCT", payload: product });
     } else {
       console.log("Producto no encontrado");
