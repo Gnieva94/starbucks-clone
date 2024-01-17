@@ -1,0 +1,42 @@
+.product-section{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+.product-heading{
+  width: 100%;
+  background-color: rgb(30, 57, 51);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.product-img{
+  width: 180px;
+}
+.product-name{
+  font-weight: 700;
+  font-size: 2.1rem;
+  color: #fff;
+  padding: 10px 0;
+  text-align: center;
+}
+.product-body{
+  padding: 20px;
+  max-width: 1240px;
+}
+.product-desc{
+  font-size: 1.6rem;
+  font-weight: 500;
+}
+.btnVolver{
+  background-color: rgb(30, 57, 51);
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 1.6rem;
+  font-weight: 500;
+  cursor: pointer;
+  border: none;
+}
